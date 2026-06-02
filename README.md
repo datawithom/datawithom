@@ -2,7 +2,7 @@
 
 > *"Turning Data into Insights"*
 
-I'm a passionate **Data Analyst** from India 🇮🇳, focused on transforming raw data into meaningful business decisions using SQL, Power BI, and Python.
+I'm a passionate **Data Analyst** from Nagpur,Maharashtra 🇮🇳, focused on transforming raw data into meaningful business decisions using SQL, Power BI, and Python.
 
 ---
 
