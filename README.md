@@ -26,6 +26,7 @@ SQL-based analysis of Zepto product data including inventory, pricing, discounts
 
 ### 📱 [Mobile Sales Analysis](https://github.com/datawithom/Mobile-Sales-Analysis-PowerBI)
 Power BI dashboard analyzing mobile sales data — ₹769M Sales | 4K Transactions | 19K Quantity — with insights on customer ratings, payment methods, and top-selling models.
+
 ---
 
 ## 📈 GitHub Stats
