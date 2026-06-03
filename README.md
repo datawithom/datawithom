@@ -25,7 +25,7 @@ Power BI dashboard analyzing BlinkIT sales, outlet performance, and product insi
 SQL-based analysis of Zepto product data including inventory, pricing, discounts, stock availability, and revenue insights.
 
 ### 📱 [Mobile Sales Analysis](https://github.com/datawithom/Mobile-Sales-Analysis-PowerBI)
-Power BI dashboard analyzing mobile sales data — **₹769M Sales | 4K Transactions | 19K Quantity** — with insights on customer ratings, payment methods, and top-selling models.
+Power BI dashboard analyzing mobile sales data — ₹769M Sales | 4K Transactions | 19K Quantity — with insights on customer ratings, payment methods, and top-selling models.
 ---
 
 ## 📈 GitHub Stats
