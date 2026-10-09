@@ -18,6 +18,16 @@ I'm a passionate **Data Analyst** from Nagpur,Maharashtra 🇮🇳, focused on t
 
 ## 📊 Featured Projects
 
+### 🛍️ Customer Shopping Behavior Analysis
+End-to-end customer shopping behavior analysis using Python, PostgreSQL, SQL, and Power BI.
+
+🔗 [View Project](https://github.com/datawithom/customer-shopping-behavior-analysis)
+
+### 🛒 E-Commerce Sales SQL Analysis
+SQL/PostgreSQL analysis of e-commerce sales, revenue, profitability, customer behavior, and business performance.
+
+🔗 [View Project](https://github.com/datawithom/ecommerce-sales-sql-analysis)
+
 ### 🛒 [BlinkIT Power BI Dashboard](https://github.com/datawithom/BlinkIT-powerBI-Dashboard)
 Power BI dashboard analyzing BlinkIT sales, outlet performance, and product insights using **Power Query** and **DAX**.
 
